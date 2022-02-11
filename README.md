@@ -8,7 +8,7 @@ This repository contains a simple web application that demonstrates how to quick
     </kbd>
 </p>
 
-> ⚠️ Interested in using MariaDB and PHP with [mysqli](https://www.php.net/manual/en/book.mysqli.php)? Check out the quickstart [here](https://github.com/mariadb-developers/php-quickstart).
+> ⚠️ Interested in using MariaDB and PHP with [mysqli](https://www.php.net/manual/en/book.mysqli.php)? Check out the quickstart [here](https://github.com/mariadb-developers/php-quickstart)!
 
 ## Getting Started
 
