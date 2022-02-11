@@ -2,6 +2,8 @@
 
 This repository contains a simple web application that demonstrates how to quickly connect to and communicate with a [MariaDB](https://mariadb.com) database using [PHP](https://www.php.net/) and [PDO (PHP Data Objects)](https://www.php.net/manual/en/book.pdo.php). 
 
+> ⚠️ Interested in using MariaDB and PHP with [mysqli](https://www.php.net/manual/en/book.mysqli.php)? Check out the quickstart [here](https://github.com/mariadb-developers/php-quickstart).
+
 <p align="center" spacing="10">
     <kbd>
         <img src="media/demo.gif" />
